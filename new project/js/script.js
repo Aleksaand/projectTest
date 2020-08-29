@@ -30,3 +30,5 @@
 
 const user = prompt('Kak zovut bro ?', "");
 alert(`Priver ${user}, kak Dela?`);
+
+const after = 10;
