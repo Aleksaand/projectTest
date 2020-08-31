@@ -47,3 +47,9 @@ personalMovieDB.movies[d] = c;
 // console.log(movies);
 
 console.log(personalMovieDB);
+
+if (-1) {
+    console.log('OK!');
+} else {
+    console.log('Error');
+}
